@@ -1,4 +1,4 @@
-# Factory Robot Hazard Analyzer — Smart Workplace Safety System
+# Factory Robot Hazard Analyzer - Smart Workplace Safety System 
 
 A reliable Java application designed to evaluate and predict workplace safety risks when industrial robots work alongside human operators on a factory floor.
 
