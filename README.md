@@ -4,7 +4,7 @@ A reliable Java application designed to evaluate and predict workplace safety ri
 
 ---
 
-## What Does This Project Do? (In Simple Terms)
+## What Does This Project Do? 
 
 In a modern smart factory, automated robotic arms assemble, weld, and move parts in the exact same spaces where human technicians walk and work. If a robotic arm loses precision or if machinery starts wearing out, the risk of an accident increases significantly.
 
